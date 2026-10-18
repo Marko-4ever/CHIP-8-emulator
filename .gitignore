@@ -2,4 +2,5 @@
 /build/
 /std.pcm
 /compile_flags.txt
+/.clang-format
 /.vscode/

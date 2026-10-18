@@ -2,6 +2,11 @@
 
 A CHIP-8 emulator written in C++ using raylib.
 
+## Explanation
+
+I built this project to strengthen my C++ skills and prepare for more complex projects. It’s not polished, but it works, which I’m happy with. I learned a lot about bitwise operations and file handling; file handling was the biggest challenge for me.
+
+
 ## Requirements
 
 - A C++23 compiler with support for the `std` module
